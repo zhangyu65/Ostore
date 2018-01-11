@@ -13,4 +13,5 @@ public class ShoppingCart {
     private Long cusId;
     private Long shopId;
     private Date createTime;
+
 }
